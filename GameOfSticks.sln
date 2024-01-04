@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Of Sticks", "Game Of Sticks\Game Of Sticks.csproj", "{66A24797-5ABC-4D42-B108-2123D17A4C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfSticksTest", "GameOfSticksTest\GameOfSticksTest.csproj", "{30D19BA1-35E8-43A2-96E7-4F9B7342C2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A24797-5ABC-4D42-B108-2123D17A4C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A24797-5ABC-4D42-B108-2123D17A4C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A24797-5ABC-4D42-B108-2123D17A4C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A24797-5ABC-4D42-B108-2123D17A4C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D19BA1-35E8-43A2-96E7-4F9B7342C2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D19BA1-35E8-43A2-96E7-4F9B7342C2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D19BA1-35E8-43A2-96E7-4F9B7342C2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D19BA1-35E8-43A2-96E7-4F9B7342C2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C633AB-BAC4-4335-AFD3-0E0A3230ACA9}
+	EndGlobalSection
+EndGlobal
